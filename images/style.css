@@ -81,3 +81,9 @@ box-shadow: 10;
     font-size: small;
     text-align: right; 
 }
+.marginright{
+    margin-right: 150px;
+}
+.marginleft{
+    margin-left: 150px;
+}
