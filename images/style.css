@@ -1,12 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-background-image: url("../images/donation13.jpg");
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: 100% 100%;
 font-size:xx-large;
-
-
 
 
 
@@ -20,6 +14,7 @@ font-size:xx-large;
 .fontsize{
     font-size:small;
     text-align: center;
+    margin-top: 50px;
 }
 span{
     color: white;
@@ -31,8 +26,58 @@ span{
     margin-left: 650px;
     margin-top: 100px;
     color: orange;
+
+}
+.seconddhap{
+    margin: top 200px; ;
+
+}
+.sd{
+
 }
 
+.backimg{
+    background-image: url("../images/donation13.jpg");
+    background-size: 100%;
+    height: 100%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.center{
+    text-align: center;
+    margin-top: 100px;
+}
+.tk{
+    text-align: center;
+    margin-top: 100px;
+}
+.textdeco{
+    text-decoration: none;
+    background-color:yellow;
+    border-radius: 5px;
+    margin-left: 650px;
+    margin-top: 100px;
+    color: black;
+}
+.divone{
+    font-size: small;
+    text-align: left;
+}
+.flexiblecon{
+display: flex;
+margin-top: 100px;
+box-sizing: border-box;
+box-shadow: 10;
 
 
+}
+.divtwo{
+    font-size: small;
+    text-align: center;
 
+}
+
+.divthree{
+    font-size: small;
+    text-align: right; 
+}
