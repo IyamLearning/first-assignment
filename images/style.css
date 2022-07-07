@@ -158,10 +158,11 @@ box-shadow: 10;
 }
 .buttonthree{
     background-color: azure;
-    padding:  30px 30px 30px 30px ;
+    padding:  30px 30px 30px 25px ;
 }
 .buttonfour{
     padding:  30px 30px 30px 30px ;
 border-color:red;
 background-color: aqua;
+
 }
