@@ -118,3 +118,49 @@ box-shadow: 10;
  .mergindeboone{
     margin-bottom: 100px;
  }
+    
+ .textcentertwo{
+    text-align: center;
+ }
+ .fontchange{
+    font-size:small;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+ }
+
+.buttonone{
+    margin-left: 450px;
+    padding: 15px 300px 15px 15px;
+}
+.buttontwo{
+    padding: 15px 50px 15px 15px;
+    background-color: palevioletred;
+}
+.backgroundcolourdebo{
+    background-color:burlywood;
+    padding-top: 25px;
+    padding-bottom: 60px;
+    margin-bottom: 70px;
+    padding-right: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.footerone{
+    font-size: small;
+}
+.footertwo{
+    font-family: 'Splash', cursive;
+}
+.footerthree{
+    text-align: center;
+    background-color: black;
+}
+.buttonthree{
+    background-color: azure;
+    padding:  30px 30px 30px 30px ;
+}
+.buttonfour{
+    padding:  30px 30px 30px 30px ;
+border-color: blue;
+}
