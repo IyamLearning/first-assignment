@@ -23,16 +23,16 @@ span{
     text-decoration: none;
     background-color:red;
     border-radius: 5px;
-    margin-left: 650px;
-    margin-top: 100px;
+    margin-bottom: 150px;
     color: orange;
+    margin-left: 550px;
+
+  
+    
 
 }
 .seconddhap{
     margin: top 200px; ;
-
-}
-.sd{
 
 }
 
@@ -55,7 +55,7 @@ span{
     text-decoration: none;
     background-color:yellow;
     border-radius: 5px;
-    margin-left: 650px;
+    margin-left: 550px;
     margin-top: 100px;
     color: black;
 }
@@ -83,7 +83,38 @@ box-shadow: 10;
 }
 .marginright{
     margin-right: 150px;
+    background-color: darkkhaki;
+
+}
+
+.middle{
+    background-color: aqua;
+    margin-right: 25px;
+
 }
 .marginleft{
     margin-left: 150px;
+ background-color:antiquewhite;
+ margin-right: 25px;
 }
+
+.mergindebo{
+    margin-top: 10px;
+    margin-bottom: 100px
+    ;
+}
+.textcenter{
+    text-align: center;
+}
+.imgdecoration{
+    display: flex;
+    margin-left: 75px;
+ }
+ .imgdecorationone{
+    display: flex;
+    margin-left: 75px;
+ }
+
+ .mergindeboone{
+    margin-bottom: 100px;
+ }
