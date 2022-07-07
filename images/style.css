@@ -21,10 +21,10 @@ span{
 }
 .textdec{
     text-decoration: none;
-    background-color:red;
+    background-color:palevioletred;
     border-radius: 5px;
     margin-bottom: 150px;
-    color: orange;
+    color:navy;
     margin-left: 550px;
 
   
@@ -162,5 +162,6 @@ box-shadow: 10;
 }
 .buttonfour{
     padding:  30px 30px 30px 30px ;
-border-color: blue;
+border-color:red;
+background-color: aqua;
 }
